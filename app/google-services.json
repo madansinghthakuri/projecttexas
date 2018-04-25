@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52405710743",
+    "firebase_url": "https://smshm-46e74.firebaseio.com",
+    "project_id": "smshm-46e74",
+    "storage_bucket": "smshm-46e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52405710743:android:9eb58079d0e1ab16",
+        "android_client_info": {
+          "package_name": "com.example.ironman.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52405710743-dq18cccratn0ru5doun0q3q5b3gi48l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLI7fajk5gKPNLPT4FgzaoKoWDO_hCE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

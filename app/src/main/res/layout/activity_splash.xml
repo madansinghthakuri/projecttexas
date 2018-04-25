@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ironman.splash.Splash">
+
+
+    <ImageView
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:src="@drawable/silvermlogo"
+        android:id="@+id/imageview"
+        android:layout_centerInParent="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageview"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="26dp"
+        android:text="Slilver Mountain School of Hotel Managemant"
+        android:textColor="#001076"
+        android:textStyle="bold" ></TextView>
+
+
+
+</RelativeLayout>

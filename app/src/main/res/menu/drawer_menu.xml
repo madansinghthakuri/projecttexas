@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+>
+    <group
+        android:checkableBehavior="single"
+        >
+      <item
+          android:id="@+id/home"
+          android:title="Home"
+          android:icon="@drawable/home"
+          >
+
+       </item>
+        <item
+            android:id="@+id/ilearn"
+            android:title="ilearn"
+            android:icon="@drawable/ilearn"
+            ></item>
+        <item
+            android:id="@+id/Notice"
+            android:title="Notice"
+            android:icon="@drawable/notic"
+            ></item>
+        <item
+            android:id="@+id/Attendance"
+            android:title="Attendance"
+            android:icon="@drawable/attendance"
+            ></item>
+        <item
+            android:id="@+id/website"
+            android:title="website"
+            android:icon="@drawable/website"
+
+            ></item>
+
+    </group>
+<item android:title="social"
+    >
+    <menu>
+
+<item
+    android:title="add to group"
+    android:id="@+id/add_to_group"
+    android:icon="@drawable/addgroup"
+    >
+</item>
+        <item
+            android:title="Share"
+            android:id="@+id/share"
+            android:icon="@drawable/share">
+
+        </item>
+        <item
+            android:title="Contact us"
+            android:id="@+id/contact_us"
+            android:icon="@drawable/connect">
+
+        </item>
+        <item
+            android:title="Report"
+            android:id="@+id/report"
+            android:icon="@drawable/report">
+
+        </item>
+
+    </menu>
+
+</item>
+
+
+
+
+</menu>
